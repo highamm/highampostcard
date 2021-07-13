@@ -12,9 +12,35 @@ output:
   postcards::trestles
 ---
  
+```{r, message = FALSE}
+library(emo)
+```
+
 ## Bio
 
-Matt Higham studies spatial statistics with ecological applications. His focus is spatial prediction models with imperfect detection of animals in surveys. He is an Assistant Professor at St. Lawrence University and teaches courses in introductory statistics and data science. He enjoys watching tennis as well as fiddling around with tennis data.
+Matt Higham studies spatial statistics with ecological applications. His focus is spatial prediction models with imperfect detection of animals in surveys. He is an Assistant Professor at St. Lawrence University and teaches courses in introductory statistics, regression, and data science. 
+
+## Recent Scholarly Work
+
+* Ver Hoef, J., Johnson, D., Angliss, R., & __Higham, M__. (2021). Species density models from opportunistic citizen science data. _Methods in Ecology and Evolution_. 
+    * <a href="https://github.com/highamm/POP" target="_blank">Link to GitHub</a> 
+
+* __Higham, M.__, Ver Hoef, J., Madsen, L., & Aderman, A. (2021). Adjusting a finite population block kriging estimator for imperfect detection. _Environmetrics_, __32__(1), e2654.
+    * <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/env.2654" target="_blank">Link to Paper</a> 
+
+*  __Higham, M.__, Ver Hoef, J., Frank, B. \& Dumelle, M. (Version 0.1.0 Accepted to CRAN 2020, Version 1.0.0 Accepted to CRAN 2021). _`sptotal`: Predicting Totals and Weighted Sums from Spatial Data._
+    * <a href="https://highamm.github.io/sptotal/reference/index.html" target="_blank">Link to Package Website </a> 
+    * <a href="https://github.com/highamm/sptotal" target="_blank">Link to Package GitHub </a> 
+    
+Please see my <a href="https://github.com/highamm" target="_blank">GitHub site </a> for other work.
+
+## Teaching
+
+At St. Lawrence University, I have taught Introduction to Statistics, Regression Modeling, Data Science (in-development course materials are given <a href="https://highamm.github.io/datascience234/" target="_blank"> here</a> ), and co-taught a senior year seminar on data visualization. 
+
+## Other
+
+In my free time, I enjoy playing racket sports `r emo::ji("tennis")`, jogging `r emo::ji("runner")`, gaming `r emo::ji("video-game")`, hiking `r emo::ji("mountain")`, and backpacking `r emo::ji("backpack")`!
 
 ## Education
 
@@ -26,6 +52,3 @@ Ph.D. in Statistics | September 2014 - June 2019
 
 B.S. in Statistics, B.S. in Botany | August 2010 - May 2014
 
-## Experience
-
-**St. Lawrence University** | Assistant Professor | August 2019 - Present
