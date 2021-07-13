@@ -40,7 +40,7 @@ At St. Lawrence University, I have taught Introduction to Statistics, Regression
 
 ## Other
 
-In my free time, I enjoy playing racket sports `r emo::ji("tennis")`, jogging `r emo::ji("runner")`, gaming `r emo::ji("video-game")`, hiking `r emo::ji("mountain")`, and backpacking `r emo::ji("backpack")`!
+In my free time, I enjoy playing racket sports `r emo::ji("tennis")`, jogging `r emo::ji("runner")`, gaming `r emo::ji("video_game")`, hiking `r emo::ji("mountain")`, and backpacking `r emo::ji("backpack")`!
 
 ## Education
 
