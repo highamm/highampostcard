@@ -12,13 +12,13 @@ output:
   postcards::trestles
 ---
  
-```{r, message = FALSE}
+```{r, message = FALSE, echo = FALSE}
 library(emo)
 ```
 
 ## Bio
 
-Matt Higham studies spatial statistics with ecological applications. His focus is spatial prediction models with imperfect detection of animals in surveys. He is an Assistant Professor at St. Lawrence University and teaches courses in introductory statistics, regression, and data science. 
+Matt Higham studies spatial statistics with ecological applications. His focus is spatial prediction models with imperfect detection of animals in surveys. He is an Assistant Professor at St. Lawrence University and earned a PhD degree in Statistics from Oregon State University in 2019 and B.S. degrees in Statistics and Botany from Miami University in 2014. 
 
 ## Recent Scholarly Work
 
@@ -36,19 +36,10 @@ Please see my <a href="https://github.com/highamm" target="_blank">GitHub site <
 
 ## Teaching
 
-At St. Lawrence University, I have taught Introduction to Statistics, Regression Modeling, Data Science (in-development course materials are given <a href="https://highamm.github.io/datascience234/" target="_blank"> here</a> ), and co-taught a senior year seminar on data visualization. 
+At St. Lawrence University, I have taught Introduction to Statistics, Regression Modeling, Data Science (in-development course materials are given <a href="https://highamm.github.io/datascience234/" target="_blank"> here</a>), and co-taught a senior year seminar on data visualization. 
 
 ## Other
 
 In my free time, I enjoy playing racket sports `r emo::ji("tennis")`, jogging `r emo::ji("runner")`, gaming `r emo::ji("video_game")`, hiking `r emo::ji("mountain")`, and backpacking `r emo::ji("backpack")`!
 
-## Education
-
-**Oregon State University** | Corvallis, OR
-
-Ph.D. in Statistics | September 2014 - June 2019
-
-**Miami University** | Oxford, OH
-
-B.S. in Statistics, B.S. in Botany | August 2010 - May 2014
-
+<br>
