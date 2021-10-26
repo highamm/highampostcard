@@ -36,7 +36,7 @@ Please see my <a href="https://github.com/highamm" target="_blank">GitHub site <
 
 ## Teaching
 
-At St. Lawrence University, I have taught Introduction to Statistics, Regression Modeling, Data Science (in-development course materials are given <a href="https://highamm.github.io/datascience234/" target="_blank"> here</a>), and co-taught a senior year seminar on data visualization. 
+At St. Lawrence University, I have taught Introduction to Statistics, Regression Modeling, Data Science, and co-taught a senior year seminar on data visualization. 
 
 ## Other
 
