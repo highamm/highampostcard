@@ -4,8 +4,6 @@ image: "profile_picture.jpg"
 links:
   - label: GitHub
     url: "https://github.com/highamm"
-  - label: Twitter
-    url: "https://twitter.com/m_higs"
   - label: Email
     url: "mhigham@stlawu.edu"
 output:
@@ -22,21 +20,32 @@ Matt Higham studies spatial statistics with ecological applications. His focus i
 
 ## Recent Scholarly Work
 
-* Ver Hoef, J., Johnson, D., Angliss, R., & __Higham, M__. (2021). Species density models from opportunistic citizen science data. _Methods in Ecology and Evolution_. 
-    * <a href="https://github.com/highamm/POP" target="_blank">Link to GitHub</a> 
+* __Higham, M.__, Dumelle, M., Hammond, C., Ver Hoef, J. M., & Wells, J. (2023). An application of spatio-temporal modeling to finite population abundance prediction. _Journal of Agricultural, Biological and Environmental Statistics_, 1 - 25. <a href="https://github.com/highamm/FPSpatioTemp" target="_blank">Link to GitHub</a>. 
 
-* __Higham, M.__, Ver Hoef, J., Madsen, L., & Aderman, A. (2021). Adjusting a finite population block kriging estimator for imperfect detection. _Environmetrics_, __32__(1), e2654.
-    * <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/env.2654" target="_blank">Link to Paper</a> 
 
-*  __Higham, M.__, Ver Hoef, J., Frank, B. \& Dumelle, M. (Version 0.1.0 Accepted to CRAN 2020, Version 1.0.0 Accepted to CRAN 2021). _`sptotal`: Predicting Totals and Weighted Sums from Spatial Data._
-    * <a href="https://highamm.github.io/sptotal/reference/index.html" target="_blank">Link to Package Website </a> 
-    * <a href="https://github.com/highamm/sptotal" target="_blank">Link to Package GitHub </a> 
-    
-Please see my <a href="https://github.com/highamm" target="_blank">GitHub site </a> for other work.
+
+* __Higham, M.__, Ver Hoef, J., Frank, B., & Dumelle, M. (2023). `sptotal`: an `R` package for predicting totals and weighted sums from spatial data. _Journal of Open Source Software_, _8_(85). <a href="https://joss.theoj.org/papers/10.21105/joss.05363.pdf" target="_blank">Link to Paper</a>.
+
+* Dumelle, M., __Higham, M.__, & Ver Hoef, J. M. (2023). `spmodel`: Spatial statistical modeling and prediction in `R`. _Plos one_, _18_(3), e0282524. <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0282524" target="_blank">Link to Paper</a>.
+
+* Dumelle, M., __Higham, M.__, Ver Hoef, J. M., Olsen, A. R., & Madsen, L. (2022). A comparison of design-based and model-based approaches for finite population spatial sampling and inference. _Methods in Ecology and Evolution_, 00, 1 – 12. <a href="https://github.com/USEPA/DvMsp" target="_blank">Link to GitHub</a>.
+
+* Ver Hoef, J., Johnson, D., Angliss, R., & __Higham, M__. (2021). Species density models from opportunistic citizen science data. _Methods in Ecology and Evolution_. <a href="https://github.com/highamm/POP" target="_blank">Link to GitHub</a>.
+
+* __Higham, M.__, Ver Hoef, J., Madsen, L., & Aderman, A. (2021). Adjusting a finite population block kriging estimator for imperfect detection. _Environmetrics_, __32__(1), e2654. <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/env.2654" target="_blank">Link to Paper</a>. 
+
+<!-- *  __Higham, M.__, Ver Hoef, J., Frank, B. \& Dumelle, M. (Version 0.1.0 Accepted to CRAN 2020, Version 1.0.0 Accepted to CRAN 2021). _`sptotal`: Predicting Totals and Weighted Sums from Spatial Data._. <a href="https://highamm.github.io/sptotal/reference/index.html" target="_blank">Link to Package Website</a>. -->
+
+<!-- Please see my <a href="https://github.com/highamm" target="_blank">GitHub site</a> for other work. -->
 
 ## Teaching
 
-At St. Lawrence University, I have taught Introduction to Statistics, Regression Modeling, Data Science, and co-taught a senior year seminar on data visualization. 
+At St. Lawrence University, I regularly teach the following courses:
+
+* Introduction to Statistics
+* Applied Regression Modeling
+* Foundations of Data Science
+* Data Visualization
 
 ## Other
 
