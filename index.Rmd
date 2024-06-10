@@ -18,11 +18,24 @@ library(emo)
 
 Matt Higham studies spatial statistics with ecological applications. His focus is spatial prediction models with imperfect detection of animals in surveys. He is an Assistant Professor at St. Lawrence University and earned a PhD degree in Statistics from Oregon State University in 2019 and B.S. degrees in Statistics and Botany from Miami University in 2014. 
 
+He is a co-author on the `R` package `spmodel`, used for spatial modeling and prediction. Workshop materials for `spmodel` from the 2023 _Spatial Statistics_ conference can be found <a href="https://usepa.github.io/spmodel.spatialstat2023/" target="_blank">here</a>.
+
+## Teaching
+
+At St. Lawrence University, I regularly teach the following courses:
+
+* Introduction to Statistics
+* Applied Regression Modeling
+* <a href="https://highamm.github.io/ds234_quarto/" target="_blank">Foundations of Data Science</a> 
+* <a href="https://highamm.github.io/dataviz334/" target="_blank">Data Visualization</a>  
+
 ## Recent Scholarly Work
 
-* __Higham, M.__, Dumelle, M., Hammond, C., Ver Hoef, J. M., & Wells, J. (2023). An application of spatio-temporal modeling to finite population abundance prediction. _Journal of Agricultural, Biological and Environmental Statistics_, 1 - 25. <a href="https://github.com/highamm/FPSpatioTemp" target="_blank">Link to GitHub</a>. 
+* Dumelle, M., Ver Hoef, J. M., Handler, A., Hill, R. A., **Higham, M.**, & Olsen, A. R. (2024). Modeling lake conductivity in the contiguous United States using spatial indexing for big spatial data. _Spatial Statistics_, _59_: 100808. <a href="https://www.sciencedirect.com/science/article/pii/S2211675323000830" target="_blank">Link to Paper</a>.
 
+* Ver Hoef, J. M., Dumelle, M., __Higham, M.__, Peterson, E., & Isaak, D. (2023). Indexing and partitioning the spatial linear model for large data sets. _Plos one_, _18_(11), e0291906. <a href="https://doi.org/10.1371/journal.pone.0291906" target="_blank">Link to Paper</a>.
 
+* __Higham, M.__, Dumelle, M., Hammond, C., Ver Hoef, J. M., & Wells, J. (2023). An application of spatio-temporal modeling to finite population abundance prediction. _Journal of Agricultural, Biological and Environmental Statistics_, 1 - 25. <a href="https://link.springer.com/article/10.1007/s13253-023-00565-y" target="_blank">Link to Paper</a>. 
 
 * __Higham, M.__, Ver Hoef, J., Frank, B., & Dumelle, M. (2023). `sptotal`: an `R` package for predicting totals and weighted sums from spatial data. _Journal of Open Source Software_, _8_(85). <a href="https://joss.theoj.org/papers/10.21105/joss.05363.pdf" target="_blank">Link to Paper</a>.
 
@@ -37,15 +50,6 @@ Matt Higham studies spatial statistics with ecological applications. His focus i
 <!-- *  __Higham, M.__, Ver Hoef, J., Frank, B. \& Dumelle, M. (Version 0.1.0 Accepted to CRAN 2020, Version 1.0.0 Accepted to CRAN 2021). _`sptotal`: Predicting Totals and Weighted Sums from Spatial Data._. <a href="https://highamm.github.io/sptotal/reference/index.html" target="_blank">Link to Package Website</a>. -->
 
 <!-- Please see my <a href="https://github.com/highamm" target="_blank">GitHub site</a> for other work. -->
-
-## Teaching
-
-At St. Lawrence University, I regularly teach the following courses:
-
-* Introduction to Statistics
-* Applied Regression Modeling
-* Foundations of Data Science
-* Data Visualization
 
 ## Other
 
